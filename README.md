@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ghanisht Agrawal
 - 👀 I’m interested in Technological companies such as Microsoft, Google, Apple and I am also interested in Aeroplanes
-- 🌱 I’m currently learning C and HTML programming
+- 🌱 I’m currently learning Kotlin and XML programming
 
 #include <stdio.h>
 int main()
